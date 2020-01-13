@@ -1,4 +1,4 @@
-# Calculator
+# Calculator Application
 
 An application that allows the user to make simple calculations. Built with [React JS](https://reactjs.org).
 
