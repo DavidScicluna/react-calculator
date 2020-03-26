@@ -1,6 +1,6 @@
 # Calculator Application
 
-Calculator is an application that allows the user to make calculations. Built with [React JS](https://reactjs.org).
+Calculator is an application that allows the user to calculate non-scientific calculations and displays past calculations. Built with [React JS](https://reactjs.org).
 
 ## Features
   1. Add/Subtract/Multiply/Divide/Modulus
